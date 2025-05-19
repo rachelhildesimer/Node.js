@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# קבצי סביבה
+.env
+
+# לוגים
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# תיקיות בנייה
+dist/
+build/
+
+# קבצי מערכת של Windows
+Thumbs.db
+.DS_Store
+
+# קבצי VSCode
+.vscode/
